@@ -1,2 +1,2 @@
 # portfolio
-A page website of personal profilw
+A page website of personal profile
